@@ -1,0 +1,22 @@
+$FF: Georgia, 'Times New Roman', Times, serif;
+$FH: Cursive;
+$FS: clamp(1rem, 2.2vh, 1.2rem);
+$BG-C: orange;
+$BG-CF: rgb(252,220,160);
+$BG-IMG: linear-gradient(to bottom, $BG-C, $BG-CF);
+$BG_B-C: #fff;
+$BG_F-C: #000;
+$BORDER-C: #333;
+$BORDER: 1px solid $BORDER-C; 
+$HIGHLIGHT:rgb(0, 200, 20);      
+
+.offscreen{
+    position: absolute;
+    left: 10000px;
+}
+.nowrap{
+    white-space: nowrap;
+}
+.center{
+    text-align: center;
+}
