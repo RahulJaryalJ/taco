@@ -275,10 +275,10 @@ tfoot td {
 
 @media screen and (min-width: 576px) {
   .header__h1::before {
-    content: "hi ";
+    content: "🎈 ";
   }
   .header__h1::after {
-    content: " hi";
+    content: " 🎈";
   }
   .menu__header, .menu__item {
     font-size: 120%;
