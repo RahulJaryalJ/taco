@@ -35,7 +35,6 @@ html {
   font-family: Georgia, "Times New Roman", Times, serif;
   background-color: orange;
   background-image: linear-gradient(to bottom, orange, rgb(252, 220, 160));
-  width: 100vw;
   height: 100vh;
 }
 
